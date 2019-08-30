@@ -4,7 +4,7 @@
 #
 Name     : mvn-yetus
 Version  : 0.5.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/apache/yetus/archive/rel/0.5.0.tar.gz
 Source0  : https://github.com/apache/yetus/archive/rel/0.5.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.jar
